@@ -5,3 +5,5 @@ click
 itsdangerous
 Jinja2
 MarkupSafe
+uvicorn
+python-dotenv
