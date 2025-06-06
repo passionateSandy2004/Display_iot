@@ -1,0 +1,7 @@
+Flask
+flask-cors
+Werkzeug
+click
+itsdangerous
+Jinja2
+MarkupSafe
